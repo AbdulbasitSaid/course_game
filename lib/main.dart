@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:game/course_details.dart';
-import 'package:game/models/course.dart';
 import 'package:game/models/courses.dart';
 
 void main() {
